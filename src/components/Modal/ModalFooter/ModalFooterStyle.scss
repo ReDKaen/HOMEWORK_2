@@ -1,0 +1,33 @@
+.first-modal-button{
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    background: #8a33fd;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+}
+
+.second-modal-button{
+    border: 1px solid #3c4242;
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #8a33fd;
+}
+
+.modal-footer-wrapper{
+    width: 448px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
